@@ -50,5 +50,18 @@
     "code": "PRO",
     "chapter": 4,
     "verse": 23
+  }, 
+  {
+    "content": {
+      "vi": "Ai trung tín trong việc rất nhỏ, cũng trung tín trong việc lớn; ai bất nghĩa trong việc rất nhỏ, cũng bất nghĩa trong việc lớn.",
+      "en": "Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much."
+    },
+    "book": {
+      "vi": "Lu-ca",
+      "en": "Luke"
+    },
+    "code": "LUK",
+    "chapter": 16,
+    "verse": 10
   }
 ]
