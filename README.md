@@ -1,5 +1,7 @@
 Bible verses storage for Bible Tab extension
 
+*If you are not a developer, I encourage you to use the Google Form https://goo.gl/forms/GRqfWuduEGBNCkmx1 to add verses.*
+
 # How to contribute
 
 ### 1 Clone this project.
