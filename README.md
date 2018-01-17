@@ -50,4 +50,11 @@ Example:
 ```
 
 3. Create a PR.
+
+PR title convention.
+
+`[WIP] book-name.chapter.verse`
+
+Example: `[WIP] Genesis.1.1`
+
 4. Your PR will be reviewed and merged.
