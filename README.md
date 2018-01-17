@@ -2,13 +2,13 @@ Bible verses storage for Bible Tab extension
 
 # How to contribute
 
-1/ Clone this project.
+### 1 Clone this project.
 
 ```
 git clone https://github.com/tatthien/bible-tab-verses.git
 ```
 
-2/ Add your verse follow this syntax
+### 2 Add your verse follow this syntax.
 
 ```js
 {
@@ -49,12 +49,10 @@ Example:
 }
 ```
 
-3/ Create a PR.
+### 3 Create a PR.
 
-PR title convention.
-
-`[WIP] book-name.chapter.verse`
+PR title convention: `[WIP] book-name.chapter.verse`
 
 Example: `[WIP] Genesis.1.1`
 
-4/ Your PR will be reviewed and merged.
+### 4 Your PR will be reviewed and merged.
