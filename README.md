@@ -18,10 +18,6 @@ git clone https://github.com/tatthien/bible-tab-verses.git
       "vi": "Vietnamese content",
       "en": "English content"
     },
-    "book": {
-      "vi": "Vietnamese book name",
-      "en": "English book name"
-    },
     "code": "Book code",
     "chapter": "chapter number",
     "verse": "verse number"
@@ -41,11 +37,7 @@ Example:
       "vi": "Ban đầu Đức Chúa Trời dựng nên trời đất.",
       "en": "In the beginning God created the heavens and the earth. "
     },
-    "book": {
-      "vi": "Sáng-thế Ký",
-      "en": "Genesis"
-    },
-    "code": "GEN",
+    "code": "gen",
     "chapter": "1",
     "verse": "1"
 }
