@@ -4,11 +4,7 @@
       "vi": "Ai có các điều răn của ta và vâng giữ lấy, ấy là kẻ yêu mến ta; người nào yêu mến ta sẽ được Cha ta yêu lại, ta cũng sẽ yêu người, và tỏ cho người biết ta.",
       "en": "Whoever has my commands and keeps them is the one who loves me. The one who loves me will be loved by my Father, and I too will love them and show myself to them."
     },
-    "book": {
-      "vi": "Giăng",
-      "en": "John"
-    },
-    "code": "JHN",
+    "code": "jhn",
     "chapter": "14",
     "verse": "21"
   },
@@ -17,11 +13,7 @@
       "vi": "Vì anh em biết ơn của Đức Chúa Jêsus Christ chúng ta, Ngài vốn giàu, vì anh em mà tự làm nên nghèo, hầu cho bởi sự nghèo của Ngài, anh em được nên giàu.",
       "en": "For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you through his poverty might become rich."
     },
-    "book": {
-      "vi": "2 Cô-rinh-tô",
-      "en": "2 Corinthians"
-    },
-    "code": "2CO",
+    "code": "2co",
     "chapter": "8",
     "verse": "9"
   },
@@ -30,11 +22,7 @@
       "vi": "Ai là người kính sợ Đức Giê-hô-va? Ngài sẽ chỉ dạy cho người ấy con đường mình phải chọn.",
       "en": "Who, then, are those who fear the Lord? He will instruct them in the ways they should choose."
     },
-    "book": {
-      "vi": "Thi-thiên",
-      "en": "Psalms"
-    },
-    "code": "PSA",
+    "code": "psa",
     "chapter": "25",
     "verse": "12"
   },
@@ -43,11 +31,7 @@
       "vi": "Khá cẩn-thận giữ tấm lòng của con hơn hết, Vì các nguồn sự sống do nơi nó mà ra.",
       "en": "Above all else, guard your heart, for everything you do flows from it."
     },
-    "book": {
-      "vi": "Châm-ngôn",
-      "en": "Proverbs"
-    },
-    "code": "PRO",
+    "code": "pro",
     "chapter": 4,
     "verse": 23
   }, 
@@ -56,11 +40,7 @@
       "vi": "Ai trung tín trong việc rất nhỏ, cũng trung tín trong việc lớn; ai bất nghĩa trong việc rất nhỏ, cũng bất nghĩa trong việc lớn.",
       "en": "Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much."
     },
-    "book": {
-      "vi": "Lu-ca",
-      "en": "Luke"
-    },
-    "code": "LUK",
+    "code": "luk",
     "chapter": 16,
     "verse": 10
   }
