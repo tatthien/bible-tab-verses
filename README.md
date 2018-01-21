@@ -27,7 +27,7 @@ git clone https://github.com/tatthien/bible-tab-verses.git
 Notes:
 
 - `content`: Use VB1925 for Vietnamese and NIV for English. All versions can be found at [bible.com/bible](bible.com/bible).
-- `code`: Please use the code standard of [bible.com/bible](bible.com/bible).
+- `code`: Please use the code standard [here](https://github.com/tatthien/bible-tab/blob/master/src/map.js).
 
 Example:
 
